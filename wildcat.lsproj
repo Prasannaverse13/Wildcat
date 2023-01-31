@@ -1,0 +1,3315 @@
+{
+    "lens_id": "",
+    "document_id": "jH5s4muclKpV4o-QwbAQ",
+    "original_document_id": "jH5s4muclKpV4o-QwbAQ",
+    "version": "29",
+    "lastChanged": "1675184044808",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Did you know that there's a tunnel under Ocean Blvd"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Mesh Default"
+                    ],
+                    [
+                        "Mane_Fur"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "alt_raccoon_mask"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "cheek_dots"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "eyes_mask"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "left_raccoon_ear"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "nose"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "right_raccoon_ear"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "whiskers_left"
+                    ],
+                    [
+                        "Raccoon Mask Assets Pack Resources",
+                        "Textures",
+                        "whiskers_right"
+                    ],
+                    [
+                        "Raccoon_Mask_Assets_PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Simple Emitter VFX"
+                    ],
+                    [
+                        "SnowHat Resources"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "3D Textures"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "3D Textures",
+                        "Part1 SDF"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Materials"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Materials",
+                        "Graph Occluder"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Materials",
+                        "Hat Part 1 Material"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Materials",
+                        "Hat Part 2 Material"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes",
+                        "Beret2"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes",
+                        "Beret2",
+                        "Meshes"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes",
+                        "Beret2",
+                        "Meshes",
+                        "Part1"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes",
+                        "Beret2",
+                        "Meshes",
+                        "Part2"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Meshes",
+                        "Occluder Mesh"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Scripts"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Scripts",
+                        "SendDataToVFX"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Scripts",
+                        "SmoothFollower"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Textures"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "VFX"
+                    ],
+                    [
+                        "SnowHat Resources",
+                        "VFX",
+                        "sdf_collision_snow [EDIT_ME]"
+                    ],
+                    [
+                        "SnowHat__PUT_UNDER_MAIN_CAM"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Face Mesh Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Particles Texture"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f68289d45b37a18b7ab652f14a2eafbd",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "WILDCAT",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1675182638619390:44727"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1675182447519627:30367"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1675182446965340:30098"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1675182186996733:14029",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1675182187163603:14061",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1675182187609012:14115",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1675182187687797:14124",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1675182445683627:29928",
+                    "name": "sceneObject_8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1675182446965340:30098",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1675182447226552:30104",
+                    "name": "Files\/File26.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1675182447519627:30367",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1675182448332773:30382",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1675182448554953:30395",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1675182449338067:30411",
+                    "name": "Files\/File34.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1675182450271936:30423",
+                    "name": "Files\/File36",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1675182451020171:30436",
+                    "name": "Files\/File38",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1675182451542074:30450",
+                    "name": "Files\/File40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1675182451889882:30464",
+                    "name": "Files\/File42",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1675182452478338:30476",
+                    "name": "Files\/File44.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1675182452655553:30490",
+                    "name": "Files\/File45.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1675182453039768:30503",
+                    "name": "Files\/File47.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1675182453090025:30513",
+                    "name": "Files\/File49.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1675182453259801:30524",
+                    "name": "Files\/File52.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1675182487867783:33481",
+                    "name": "Files\/File55",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1675182499087644:34670",
+                    "name": "sceneObject_9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1675182499409434:34837",
+                    "name": "Files\/File58.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1675182499547065:34849",
+                    "name": "Files\/File61.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1675182499672048:34859",
+                    "name": "Files\/File64.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1675182499798447:34869",
+                    "name": "Files\/File67.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1675182499946407:34880",
+                    "name": "Files\/File70.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1675182500041670:34893",
+                    "name": "Files\/File73.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1675182500280099:34902",
+                    "name": "Files\/File76.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1675182500385450:34913",
+                    "name": "Files\/File79.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1675182838071810:59264",
+                    "name": "Files\/File90",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1675182838604186:59331",
+                    "name": "Files\/File91.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1675182838739848:59344",
+                    "name": "Files\/File94",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1675182839375976:59358",
+                    "name": "Files\/File96",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1675182839595353:59372",
+                    "name": "Files\/File98",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1675182839913875:59386",
+                    "name": "Files\/File100.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1675183067250816:74909",
+                    "name": "Licensed Sound",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1675182186914324:13994",
+                "4": "1675182638619390:44727",
+                "5": "1675182827639460:58002",
+                "6": "1675182838046766:59253",
+                "7": "1675182958813362:68081"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.jpg"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.jpg"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.oprfb"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsvfx"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.js"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.pvr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsmat"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.lsmat"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.js"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.mesh"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.mesh"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.mesh"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.mesh"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.png"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.js"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.pvr"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.lsmat"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.oprfb"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.pvr"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.pvr"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.pvr"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.pvr"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.pvr"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.pvr"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.png"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.pvr"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.png"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.pvr"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.pvr"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.pvr"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.pvr"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.pvr"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.pvr"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.pvr"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.pvr"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.png"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.lsmat"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.lsmat"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.lsmat"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.js"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.lsvfx"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.pvr"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.oprfb"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Textures\/Face Mesh Texture.jpg"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Face Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "977",
+                        "v": "SnowHat Resources"
+                    },
+                    {
+                        "k": "978",
+                        "v": "SnowHat Resources\/VFX"
+                    },
+                    {
+                        "k": "979",
+                        "v": "SnowHat Resources\/VFX\/sdf_collision_snow [EDIT_ME].lsvfx"
+                    },
+                    {
+                        "k": "980",
+                        "v": "SnowHat Resources\/Scripts"
+                    },
+                    {
+                        "k": "981",
+                        "v": "SnowHat Resources\/Scripts\/SendDataToVFX.js"
+                    },
+                    {
+                        "k": "982",
+                        "v": "SnowHat Resources\/Materials"
+                    },
+                    {
+                        "k": "983",
+                        "v": "SnowHat Resources\/Materials\/Hat Part 1 Material.lsmat"
+                    },
+                    {
+                        "k": "984",
+                        "v": "SnowHat Resources\/Textures"
+                    },
+                    {
+                        "k": "985",
+                        "v": "SnowHat Resources\/Textures\/white.png"
+                    },
+                    {
+                        "k": "986",
+                        "v": "SnowHat Resources\/Materials\/Hat Part 2 Material.lsmat"
+                    },
+                    {
+                        "k": "987",
+                        "v": "SnowHat Resources\/Meshes"
+                    },
+                    {
+                        "k": "988",
+                        "v": "SnowHat Resources\/Meshes\/Occluder Mesh.mesh"
+                    },
+                    {
+                        "k": "989",
+                        "v": "SnowHat Resources\/Materials\/Graph Occluder.lsmat"
+                    },
+                    {
+                        "k": "990",
+                        "v": "SnowHat Resources\/Meshes\/Beret2"
+                    },
+                    {
+                        "k": "991",
+                        "v": "SnowHat Resources\/Meshes\/Beret2\/Meshes"
+                    },
+                    {
+                        "k": "992",
+                        "v": "SnowHat Resources\/Meshes\/Beret2\/Meshes\/Part1.mesh"
+                    },
+                    {
+                        "k": "993",
+                        "v": "SnowHat Resources\/Meshes\/Beret2\/Meshes\/Part2.mesh"
+                    },
+                    {
+                        "k": "994",
+                        "v": "SnowHat Resources\/3D Textures"
+                    },
+                    {
+                        "k": "995",
+                        "v": "SnowHat Resources\/3D Textures\/Part1 SDF.png"
+                    },
+                    {
+                        "k": "996",
+                        "v": "SnowHat Resources\/Scripts\/SmoothFollower.js"
+                    },
+                    {
+                        "k": "997",
+                        "v": "SnowHat__PUT_UNDER_MAIN_CAM.oprfb"
+                    },
+                    {
+                        "k": "998",
+                        "v": "Mane_Fur.lsmat"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Raccoon Mask Assets Pack Resources"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/alt_raccoon_mask.png"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/cheek_dots.png"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/eyes_mask.png"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/left_raccoon_ear.png"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/nose.png"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/right_raccoon_ear.png"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/whiskers_left.png"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Raccoon Mask Assets Pack Resources\/Textures\/whiskers_right.png"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "Raccoon_Mask_Assets_PLACE_IN_OBJECTS_PANEL.oprfb"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Textures\/Particles Texture.png"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Simple Emitter VFX.lsvfx"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "970",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "971",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "972",
+                        "v": "785e7738cf4394032d1c4f2aa03019b2"
+                    },
+                    {
+                        "k": "974",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "975",
+                        "v": "c1b22adb808b801d453498c35c300b9a"
+                    },
+                    {
+                        "k": "976",
+                        "v": "77d8309d8de41c274fdf7f36563a07a5"
+                    },
+                    {
+                        "k": "979",
+                        "v": "c14f63667ad3f81947c8f6c43857150e"
+                    },
+                    {
+                        "k": "981",
+                        "v": "d295884ab4a5a6e2ac255beab2b5a9c3"
+                    },
+                    {
+                        "k": "983",
+                        "v": "f83cd036d702f0a160bb4c3c3555e2b9"
+                    },
+                    {
+                        "k": "985",
+                        "v": "5167f791115e0d7d62e5103740694a36"
+                    },
+                    {
+                        "k": "986",
+                        "v": "305a87d091a33cff9c22af36c2c91f42"
+                    },
+                    {
+                        "k": "988",
+                        "v": "1ee3b04bde1071400dcab59b4f7859e0"
+                    },
+                    {
+                        "k": "989",
+                        "v": "7bfdcdd5d3c9993f382f478332eb5a59"
+                    },
+                    {
+                        "k": "992",
+                        "v": "0a7701c085ed7101164002450ffa2501"
+                    },
+                    {
+                        "k": "993",
+                        "v": "72288c2e92776740f850d600455d1705"
+                    },
+                    {
+                        "k": "995",
+                        "v": "aafbf50a3cbfc273f581e7c6d0e565ea"
+                    },
+                    {
+                        "k": "996",
+                        "v": "61b76f39d52d05c02e7a44bf9c009211"
+                    },
+                    {
+                        "k": "997",
+                        "v": "fc5468efa563d79a2016883ad6a004ac"
+                    },
+                    {
+                        "k": "998",
+                        "v": "257a744535817043b2397f0cf98a93d0"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "62f582ab2f22fa9f922a08667b2ce1cc"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "4ebece8180abe0bbe281344232785a96"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "64119db93c4974ca9af2e0b2091586f4"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "4c39af0d22b3487b27689ba50a73c8de"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "3bc0332134bdbac8541327225d21378f"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "46547a6b407620d23d568c0b6cfc7267"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "8c35e8a377acb9de299d42edee8ac738"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "c6870e18648bb84c17e249881e30aff9"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "fbc125461d53fc154cf1f1f68bd8685d"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "92bbc0db9b88d58fd5538047917d20c8"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "662ece05e30282f62f87c5f988c50fc2"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "fe6eeb467b2150e7bf833d6cf5e09fe4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2023-01-31T22:04:05",
+                        "name": "Public",
+                        "hash": "0b95f0b8b90cbe30e05d7d11a1047aeb",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T00:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-31T21:53:08",
+                                "name": "Face Mesh Default.lsmat",
+                                "hash": "77d8309d8de41c274fdf7f36563a07a5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-20T00:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-31T21:58:08",
+                                "name": "Mane_Fur.lsmat",
+                                "hash": "257a744535817043b2397f0cf98a93d0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-31T21:58:19",
+                                "name": "Raccoon Mask Assets Pack Resources",
+                                "hash": "408cda7889bf7665a3284940b93e390e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T21:58:19",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:58:20",
+                                        "name": "Textures",
+                                        "hash": "172325e2872ea3dae8954224d282a976",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "alt_raccoon_mask.png",
+                                                "hash": "62f582ab2f22fa9f922a08667b2ce1cc",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "cheek_dots.png",
+                                                "hash": "4ebece8180abe0bbe281344232785a96",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "eyes_mask.png",
+                                                "hash": "64119db93c4974ca9af2e0b2091586f4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "left_raccoon_ear.png",
+                                                "hash": "4c39af0d22b3487b27689ba50a73c8de",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "nose.png",
+                                                "hash": "3bc0332134bdbac8541327225d21378f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "right_raccoon_ear.png",
+                                                "hash": "46547a6b407620d23d568c0b6cfc7267",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "whiskers_left.png",
+                                                "hash": "8c35e8a377acb9de299d42edee8ac738",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:58:19",
+                                                "name": "whiskers_right.png",
+                                                "hash": "c6870e18648bb84c17e249881e30aff9",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-31T21:58:19",
+                                "name": "Raccoon_Mask_Assets_PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "fbc125461d53fc154cf1f1f68bd8685d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-31T22:04:00",
+                                "name": "Simple Emitter VFX.lsvfx",
+                                "hash": "fe6eeb467b2150e7bf833d6cf5e09fe4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-31T21:57:33",
+                                "name": "SnowHat Resources",
+                                "hash": "2042b7fb540c68e3a8e32f8eb86bdb0f",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:33",
+                                        "name": "3D Textures",
+                                        "hash": "64bc334c82bad6216227b9e24f6810eb",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:26",
+                                                "name": "Part1 SDF.png",
+                                                "hash": "aafbf50a3cbfc273f581e7c6d0e565ea",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T21:57:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:30",
+                                        "name": "Materials",
+                                        "hash": "fcf93fb57405d861ab42365acd6c2539",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:30",
+                                                "name": "Graph Occluder.lsmat",
+                                                "hash": "7bfdcdd5d3c9993f382f478332eb5a59",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:28",
+                                                "name": "Hat Part 1 Material.lsmat",
+                                                "hash": "f83cd036d702f0a160bb4c3c3555e2b9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:29",
+                                                "name": "Hat Part 2 Material.lsmat",
+                                                "hash": "305a87d091a33cff9c22af36c2c91f42",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:32",
+                                        "name": "Meshes",
+                                        "hash": "8291259f56b85bbacfde7c344dc0c599",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2023-01-31T21:57:32",
+                                                "name": "Beret2",
+                                                "hash": "27fa44990d39c9052a4299dfad5ba902",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2023-01-31T21:57:32",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2023-01-31T21:57:33",
+                                                        "name": "Meshes",
+                                                        "hash": "ae924e30f4e49675326e3070710ca113",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2023-01-31T21:57:32",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2023-01-31T21:57:26",
+                                                                "name": "Part1.mesh",
+                                                                "hash": "0a7701c085ed7101164002450ffa2501",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2023-01-31T21:57:26",
+                                                                "name": "Part2.mesh",
+                                                                "hash": "72288c2e92776740f850d600455d1705",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:29",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:26",
+                                                "name": "Occluder Mesh.mesh",
+                                                "hash": "1ee3b04bde1071400dcab59b4f7859e0",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:33",
+                                        "name": "Scripts",
+                                        "hash": "480a1f47bfb87c982c1583f2a056c542",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:26",
+                                                "name": "SendDataToVFX.js",
+                                                "hash": "d295884ab4a5a6e2ac255beab2b5a9c3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:26",
+                                                "name": "SmoothFollower.js",
+                                                "hash": "61b76f39d52d05c02e7a44bf9c009211",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:28",
+                                        "name": "Textures",
+                                        "hash": "afb69e325bd3bfec6b867cb28e3de0e8",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:26",
+                                                "name": "white.png",
+                                                "hash": "5167f791115e0d7d62e5103740694a36",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2023-01-31T21:57:53",
+                                        "name": "VFX",
+                                        "hash": "f61d550d46385c66957ec3e87cb32399",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2023-01-31T21:57:37",
+                                                "name": "sdf_collision_snow [EDIT_ME].lsvfx",
+                                                "hash": "c14f63667ad3f81947c8f6c43857150e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-31T21:57:25",
+                                "name": "SnowHat__PUT_UNDER_MAIN_CAM.oprfb",
+                                "hash": "fc5468efa563d79a2016883ad6a004ac",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2023-01-31T22:03:58",
+                                "name": "Textures",
+                                "hash": "aa70d1593f45eee13fe6bc25413a2337",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T21:53:07",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T21:53:07",
+                                        "name": "Face Mesh Texture.jpg",
+                                        "hash": "c1b22adb808b801d453498c35c300b9a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T21:53:07",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2023-01-31T22:03:58",
+                                        "name": "Particles Texture.png",
+                                        "hash": "92bbc0db9b88d58fd5538047917d20c8",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "resourceInfoExportKey": {
+                                "RenderTargetRole": "1"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675182186996733:14029",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "973",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675182187609012:14115",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "974",
+                                "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "Face Mesh Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675182187687797:14124",
+                                "fileId": "20",
+                                "originalId": "21",
+                                "publicId": "975",
+                                "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "c1b22adb808b801d453498c35c300b9a"
+                                }
+                            },
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1675182838604186:59331",
+                                "fileId": "91",
+                                "originalId": "92",
+                                "publicId": "1010",
+                                "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "92bbc0db9b88d58fd5538047917d20c8"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675182187163603:14061",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "976",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "SnowHat Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "977",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "VFX",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "978",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "sdf_collision_snow [EDIT_ME]",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1675182446965340:30098",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "979",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "System 39",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "39"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "30",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1675182451020171:30436",
+                                                        "fileId": "38",
+                                                        "originalId": "39",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "crossCompilingAllowed": "false"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "31",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1675182451542074:30450",
+                                                        "fileId": "40",
+                                                        "originalId": "41",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "crossCompilingAllowed": "false"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "32",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1675182451889882:30464",
+                                                        "fileId": "42",
+                                                        "originalId": "43",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "crossCompilingAllowed": "false"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "33",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1675182452478338:30476",
+                                                        "fileId": "44",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "980",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "SendDataToVFX",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182447226552:30104",
+                                        "fileId": "26",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "981",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "SmoothFollower",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182453259801:30524",
+                                        "fileId": "52",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "996",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "982",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Hat Part 1 Material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182447519627:30367",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "983",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Hat Part 2 Material",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182448554953:30395",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "986",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Graph Occluder",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182450271936:30423",
+                                        "fileId": "36",
+                                        "originalId": "37",
+                                        "publicId": "989",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "984",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182448332773:30382",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "985",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "5167f791115e0d7d62e5103740694a36"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "987",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Occluder Mesh",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182449338067:30411",
+                                        "fileId": "34",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "988",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "bitangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Beret2",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "990",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "991",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Part1",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "34",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1675182452655553:30490",
+                                                        "fileId": "45",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "992",
+                                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": {
+                                                            "info": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "false"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    }
+                                                                ],
+                                                                "hasBlendShapes": "false"
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Part2",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "35",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1675182453039768:30503",
+                                                        "fileId": "47",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "993",
+                                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                        "additional": {
+                                                            "info": {
+                                                                "vertexAttribs": [
+                                                                    {
+                                                                        "semantic": "position",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "false"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "normal",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "tangent",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    },
+                                                                    {
+                                                                        "semantic": "texture0",
+                                                                        "format": "9",
+                                                                        "canBeDisabled": "true"
+                                                                    }
+                                                                ],
+                                                                "hasBlendShapes": "false"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "3D Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "994",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Part1 SDF",
+                                        "type": "1",
+                                        "subtype": "21",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182453090025:30513",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "995",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "aafbf50a3cbfc273f581e7c6d0e565ea"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "SnowHat__PUT_UNDER_MAIN_CAM",
+                        "type": "12",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675182445683627:29928",
+                        "fileId": "23",
+                        "originalId": "103",
+                        "publicId": "997",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Mane_Fur",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675182487867783:33481",
+                        "fileId": "55",
+                        "originalId": "56",
+                        "publicId": "998",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Raccoon Mask Assets Pack Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "999",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1000",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "alt_raccoon_mask",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182499409434:34837",
+                                        "fileId": "58",
+                                        "originalId": "59",
+                                        "publicId": "1001",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "62f582ab2f22fa9f922a08667b2ce1cc"
+                                        }
+                                    },
+                                    {
+                                        "name": "cheek_dots",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182499547065:34849",
+                                        "fileId": "61",
+                                        "originalId": "62",
+                                        "publicId": "1002",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "4ebece8180abe0bbe281344232785a96"
+                                        }
+                                    },
+                                    {
+                                        "name": "eyes_mask",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182499672048:34859",
+                                        "fileId": "64",
+                                        "originalId": "65",
+                                        "publicId": "1003",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "64119db93c4974ca9af2e0b2091586f4"
+                                        }
+                                    },
+                                    {
+                                        "name": "left_raccoon_ear",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "43",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182499798447:34869",
+                                        "fileId": "67",
+                                        "originalId": "68",
+                                        "publicId": "1004",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "4c39af0d22b3487b27689ba50a73c8de"
+                                        }
+                                    },
+                                    {
+                                        "name": "nose",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "44",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182499946407:34880",
+                                        "fileId": "70",
+                                        "originalId": "71",
+                                        "publicId": "1005",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "3bc0332134bdbac8541327225d21378f"
+                                        }
+                                    },
+                                    {
+                                        "name": "right_raccoon_ear",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "45",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182500041670:34893",
+                                        "fileId": "73",
+                                        "originalId": "74",
+                                        "publicId": "1006",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "46547a6b407620d23d568c0b6cfc7267"
+                                        }
+                                    },
+                                    {
+                                        "name": "whiskers_left",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "46",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182500280099:34902",
+                                        "fileId": "76",
+                                        "originalId": "77",
+                                        "publicId": "1007",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "8c35e8a377acb9de299d42edee8ac738"
+                                        }
+                                    },
+                                    {
+                                        "name": "whiskers_right",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1675182500385450:34913",
+                                        "fileId": "79",
+                                        "originalId": "80",
+                                        "publicId": "1008",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "c6870e18648bb84c17e249881e30aff9"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Raccoon_Mask_Assets_PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "0",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675182499087644:34670",
+                        "fileId": "57",
+                        "originalId": "104",
+                        "publicId": "1009",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Simple Emitter VFX",
+                        "type": "23",
+                        "subtype": "0",
+                        "resourceId": "48",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "1675182838071810:59264",
+                        "fileId": "90",
+                        "originalId": "101",
+                        "publicId": "1012",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "System 39",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "true",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "system_id": "39"
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Rendering",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "50",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1675182838739848:59344",
+                                        "fileId": "94",
+                                        "originalId": "95",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Feedback",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "51",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1675182839375976:59358",
+                                        "fileId": "96",
+                                        "originalId": "97",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Simulation",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "52",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1675182839595353:59372",
+                                        "fileId": "98",
+                                        "originalId": "99",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "crossCompilingAllowed": "false"
+                                        }
+                                    },
+                                    {
+                                        "name": "Managing",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "53",
+                                        "dependency": "1",
+                                        "hidden": "true",
+                                        "uid": "1675182839913875:59386",
+                                        "fileId": "100",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/prasannajo13\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioWYYmwvfMMoqJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Did you know that there's a tunnel under Ocean Blvd",
+                        "type": "5",
+                        "subtype": "3",
+                        "resourceId": "54",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1675183067250816:74909",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "101:100"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1675182187687797:14124",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13493",
+                            "compressedSize": "13493",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "false",
+                                "level": "0",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "22",
+                        "compressed_files": "",
+                        "desiredSettings": {
+                            "isCompressed": "true",
+                            "level": "3",
+                            "type": "0",
+                            "subtype": "9"
+                        }
+                    }
+                },
+                {
+                    "k": "1675182448332773:30382",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4052",
+                            "compressedSize": "219",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5167f791115e0d7d62e5103740694a36",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "53"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182449338067:30411",
+                    "v": {
+                        "infos": {
+                            "originalSize": "23361",
+                            "compressedSize": "23361",
+                            "originalRAM": "27076",
+                            "compressedRAM": "27076",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "bitangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "35",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675182452655553:30490",
+                    "v": {
+                        "infos": {
+                            "originalSize": "12211",
+                            "compressedSize": "12211",
+                            "originalRAM": "14454",
+                            "compressedRAM": "14454",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "46",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675182453039768:30503",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5164",
+                            "compressedSize": "5164",
+                            "originalRAM": "5856",
+                            "compressedRAM": "5856",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "48",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1675182453090025:30513",
+                    "v": {
+                        "infos": {
+                            "originalSize": "334906",
+                            "compressedSize": "311910",
+                            "originalRAM": "19760",
+                            "compressedRAM": "79040",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "21"
+                            }
+                        },
+                        "uncompressed_file": "51",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "aafbf50a3cbfc273f581e7c6d0e565ea",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "54"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182499409434:34837",
+                    "v": {
+                        "infos": {
+                            "originalSize": "165693",
+                            "compressedSize": "158786",
+                            "originalRAM": "2889884",
+                            "compressedRAM": "363120",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "60",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "62f582ab2f22fa9f922a08667b2ce1cc",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "82"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182499547065:34849",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1827",
+                            "compressedSize": "1326",
+                            "originalRAM": "1093224",
+                            "compressedRAM": "137408",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "63",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "4ebece8180abe0bbe281344232785a96",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "83"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182499672048:34859",
+                    "v": {
+                        "infos": {
+                            "originalSize": "22213",
+                            "compressedSize": "11803",
+                            "originalRAM": "1275208",
+                            "compressedRAM": "161160",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "66",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "64119db93c4974ca9af2e0b2091586f4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "84"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182499798447:34869",
+                    "v": {
+                        "infos": {
+                            "originalSize": "26452",
+                            "compressedSize": "36512",
+                            "originalRAM": "563992",
+                            "compressedRAM": "71440",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "69",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "4c39af0d22b3487b27689ba50a73c8de",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "85"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182499946407:34880",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3085",
+                            "compressedSize": "1491",
+                            "originalRAM": "301104",
+                            "compressedRAM": "38192",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "72",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3bc0332134bdbac8541327225d21378f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "86"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182500041670:34893",
+                    "v": {
+                        "infos": {
+                            "originalSize": "26848",
+                            "compressedSize": "36750",
+                            "originalRAM": "563992",
+                            "compressedRAM": "71440",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "75",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "46547a6b407620d23d568c0b6cfc7267",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "87"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182500280099:34902",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7375",
+                            "compressedSize": "4453",
+                            "originalRAM": "304640",
+                            "compressedRAM": "38080",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "78",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8c35e8a377acb9de299d42edee8ac738",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "88"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182500385450:34913",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7468",
+                            "compressedSize": "4391",
+                            "originalRAM": "304640",
+                            "compressedRAM": "38080",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "81",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c6870e18648bb84c17e249881e30aff9",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "89"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1675182838604186:59331",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4444",
+                            "compressedSize": "525",
+                            "originalRAM": "4096",
+                            "compressedRAM": "512",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "93",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "92bbc0db9b88d58fd5538047917d20c8",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "102"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1675182445683627:29928",
+                    "v": "7fDyOIRhwDMWm6q1aoQcri"
+                },
+                {
+                    "k": "1675182487867783:33481",
+                    "v": "25xV0zEjJy2icql7cDkeYg"
+                },
+                {
+                    "k": "1675182499087644:34670",
+                    "v": "Qsx02hmqlMvwR2trWBA4q"
+                }
+            ]
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.36.1"
+}
